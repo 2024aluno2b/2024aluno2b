@@ -1,4 +1,4 @@
-BEM VINDOS AO MEU PERFIL💜
+**BEM VINDOS AO MEU PERFIL💜**
 
 Meu nome é Ana júlia Souza.
 
@@ -6,9 +6,9 @@ Meu nome é Ana júlia Souza.
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-VOCÊ PODE ENTRAR EMCONTATO COMIGO 📭✉
+**VOCÊ PODE ENTRAR EMCONTATO COMIGO 📭✉**
 
-00001087771031sp@al.educacao.sp.gov.br
+> 00001087771031sp@al.educacao.sp.gov.br
 
 
 
